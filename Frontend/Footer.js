@@ -25,18 +25,18 @@ function Footer() {
             <div className="col-md-3 w3_footer_grid">
                 <h3>Category</h3>
                 <ul className="info"> 
-                    <li><a href="products.html">Thriller</a></li>
-                    <li><a href="products1.html">Romance</a></li>
-                    <li><a href="products.html">Adventure</a></li>
-                    <li><a href="products1.html">Classic</a></li>
-                    <li><a href="products2.html">Suspense and mystery</a></li>
+                    <li><a href="#">Thriller</a></li>
+                    <li><a href="#">Romance</a></li>
+                    <li><a href="#">Adventure</a></li>
+                    <li><a href="#">Classic</a></li>
+                    <li><a href="#">Suspense and mystery</a></li>
                 </ul>
             </div>
             <div className="col-md-3 w3_footer_grid">
                 <h3>Profile</h3>
                 <ul className="info"> 
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="products.html">Today's Deals</a></li>
+                    <li><a href="#">Today's Deals</a></li>
                 </ul>
                 <h4><a href ="https://github.com/RonitaM/Book-to-Shop">Follow Us</a></h4>
                 <div className="agileits_social_button">
